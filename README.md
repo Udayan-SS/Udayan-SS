@@ -22,5 +22,5 @@ I'm **Udayan S S** — welcome to my GitHub profile!
 - 📄 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
 - 📧 Email: udayanss2004@gmail.com
 
-[![Udayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayan-SS&show_icons=true&theme=dark)]
-= Github: (https://github.com/Udayan-SS)
+![Udayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udayan-SS&show_icons=true&theme=dark)
+- Github: (https://github.com/Udayan-SS)
